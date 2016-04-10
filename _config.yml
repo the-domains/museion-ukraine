@@ -1,0 +1,28 @@
+name: Museion Ukraine
+favicon: null
+layout_spectrum: 0.43238340714015067
+typography_spectrum: 0.7928833840414882
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.6948197318706661
+  lightness: 0.6236788290552795
+  saturation: 0.006071869283914566
+  rhythmicContrast: 0.39263102994300425
+purpose: []
